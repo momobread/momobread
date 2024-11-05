@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momobread&layout=compact)
+</div>
+
 
 
 <!--
