@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/styledcomponents-%23E34F26.svg?style=for-the-badge&logo=styledcomponents&logoColor=#DB7093" />
+<img src="https://img.shields.io/badge/styledcomponents-%23E34F26.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
 </div>
 
 <div align="center">
