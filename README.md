@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momobread&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momobread&layout=compact"/>
 </div>
 
 
